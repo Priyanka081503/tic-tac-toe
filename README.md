@@ -16,8 +16,6 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a f
 - CSS  
 - JavaScript  
 
-## 📷 Screenshots  
-*(Add screenshots here if available!)*  
 
 ## 🛠️ How to Run Locally  
 1. Clone this repository:  
